@@ -1,0 +1,2 @@
+execute if data storage cui out.components."minecraft:custom_data".cui.on_input[{save_to_list:1b}] unless data entity @s data.page.render.list run function cui:page/on_change/on_input/save_to_list with storage cui out.components."minecraft:custom_data".cui.list
+execute if data storage cui out.components."minecraft:custom_data".cui.on_input[{save_to_list:1b}] if data entity @s data.page.render.list run function cui:page/on_change/on_input/save_to_list_of_list

@@ -1,0 +1,1 @@
+execute as @e[type=marker,tag=cui] at @s run function cui:entity/tick

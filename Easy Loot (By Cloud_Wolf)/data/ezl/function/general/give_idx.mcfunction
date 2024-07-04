@@ -1,0 +1,1 @@
+$give @p decorated_pot[minecraft:custom_data={ezl:[{idx:$(idx),count:1}]},minecraft:item_name='{"text":"Drop for loot from EZL #$(idx)"}']

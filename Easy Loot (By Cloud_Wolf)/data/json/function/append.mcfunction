@@ -1,0 +1,1 @@
+$data modify storage json parse.out set value '$(out)$(append)'

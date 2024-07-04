@@ -1,0 +1,3 @@
+execute unless block 0 -64 0 yellow_shulker_box run function ezl:shulker
+
+tellraw @a[gamemode=creative] ["",{"text":"E","color":"#70d1fa"},{"text":"Z","color":"#4ed7e0"},{"text":" L","color":"#5ad9b9"},{"text":"O","color":"#84d58e"},{"text":"O","color":"#b4cc6b"},{"text":"T","color":"#e3bd5f"},{"text":"> ","color":"white"},{"text":"No EZLoot UI detected. "},{"text":"[Click Here]","clickEvent":{"action":"run_command","value":"/function cui:entity/place"},"color":"#70d1fa"},{"text":" to spawn it at your feet. It is recommended to be placed near (0,~,0) or in a forceloaded chunk."}]

@@ -1,0 +1,3 @@
+$tellraw @p {"clickEvent":{"action":"copy_to_clipboard","value":"$(escaped_loot_table)"},"hoverEvent":{"action":"show_text","value":[{"text":"📋"}]},"text":"EZ-LOOT > Click here to copy the table to your clipboard!"}
+
+# /tellraw @p {"clickEvent":{"action":"copy_to_clipboard","value":"{\"pools\":[{\"rolls\":1,\"entries\":[{\"type\":\"minecraft:item\",\"name\":\"minecraft:stone\",\"weight\":1}]}]}"},"hoverEvent":{"action":"show_text","value":[{"text":"📋"}]},"text":"EZ-LOOT > Click here to copy the table to your clipboard!"}

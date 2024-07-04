@@ -1,0 +1,1 @@
+$execute store result score .render-max cui run data get $(source)

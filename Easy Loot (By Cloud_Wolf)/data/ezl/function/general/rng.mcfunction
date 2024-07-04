@@ -1,0 +1,1 @@
+$execute store result storage ezl:temp args.idx int 1 run random value 1..$(max)

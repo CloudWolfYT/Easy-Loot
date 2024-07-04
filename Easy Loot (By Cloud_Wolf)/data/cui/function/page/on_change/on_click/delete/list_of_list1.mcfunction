@@ -1,0 +1,1 @@
+$data remove $(source1)[$(idx1)].$(source)[$(idx)]

@@ -1,0 +1,1 @@
+$data modify storage cui out set from $(source1)[$(idx1)].$(source)[$(idx)]
