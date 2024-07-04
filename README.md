@@ -1,9 +1,9 @@
 # Easy Loot (Minecraft Datapack)
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?)](#contributors-)
-[![Discord](https://img.shields.io/badge/Discord-⛓-blue.svg)](https://discord.gg/AsHA7GgqqM)
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?)](#contributors-)
+[![Discord](https://img.shields.io/badge/Discord-⛓-blue.svg)](https://linktr.ee/CloudWolfMC)
 [![Tutorial](https://img.shields.io/badge/Tutorial-▶-red.svg)](https://www.youtube.com/watch?v=MhSg40o8HUc)
-[![Downloads](https://img.shields.io/github/downloads/CloudWolfYT/ShaderSelectorV2/total.svg)](https://github.com/CloudWolfYT/ShaderSelectorV2/releases)
+[![Downloads](https://img.shields.io/github/downloads/CloudWolfYT/Easy-Loot/total.svg)](https://github.com/CloudWolfYT/Easy-Loot/releases)
 
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 <img src="images/social.png"
