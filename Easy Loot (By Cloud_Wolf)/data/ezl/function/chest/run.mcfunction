@@ -6,4 +6,6 @@ execute if score #loop ezl matches 1.. at @s run function ezl:chest/loop
 
 function ezl:chest/insert/start
 
-kill @s
+tag @s add ezl.opened
+
+kill @s[tag=!ezl.barrel]
